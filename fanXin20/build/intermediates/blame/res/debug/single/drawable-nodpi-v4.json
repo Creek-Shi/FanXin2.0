@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\login_app.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-nodpi\\login_app.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\empty_photo.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-nodpi\\empty_photo.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\default_avatar.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-nodpi\\default_avatar.png"
+    }
+]

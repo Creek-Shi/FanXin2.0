@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res"/><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\build\generated\res\rs\release"/><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res"><file name="ic_launcher" path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="GenericDraweeView">
+
+    <!-- Fade duration in milliseconds. -->
+    <attr format="integer" name="fadeDuration"/>
+
+    <!-- Images -
+    Scale types must match values in ScaleType.fromString (ScalingUtils.java).
+    For drawables that should not be scaled, such as those with the android:tileMode
+    attribute set, use the value 'none'. -->
+
+    <!-- A drawable or color to be be used as a placeholder. -->
+    <attr format="reference" name="placeholderImage"/>
+    <!-- Scale type of the placeholder image. Ignored if placeholderImage is not specified. -->
+    <attr format="string" name="placeholderImageScaleType"/>
+
+    <!-- A drawable to be be used as a retry image. -->
+    <attr format="reference" name="retryImage"/>
+    <!-- Scale type of the retry image. Ignored if retryImage is not specified. -->
+    <attr format="string" name="retryImageScaleType"/>
+
+    <!-- A drawable to be be used as a failure image. -->
+    <attr format="reference" name="failureImage"/>
+    <!-- Scale type of the failure image. Ignored if failureImage is not specified. -->
+    <attr format="string" name="failureImageScaleType"/>
+
+    <!-- A drawable to be be used as a progress bar. -->
+    <attr format="reference" name="progressBarImage"/>
+    <!-- Scale type of the progress bar. Ignored if progressBarImage is not specified. -->
+    <attr format="string" name="progressBarImageScaleType"/>
+    <!-- Progress bar Auto Rotate interval in milliseconds -->
+    <attr format="integer" name="progressBarAutoRotateInterval"/>
+
+    <!-- Scale type of the actual image. -->
+    <attr format="string" name="actualImageScaleType"/>
+
+    <!-- A drawable or color to be used as a background. -->
+    <attr format="reference" name="backgroundImage"/>
+
+    <!-- A drawable or color to be used as an overlay. -->
+    <attr format="reference" name="overlayImage"/>
+
+    <!-- A drawable or color to be used as a pressed-state-overlay -->
+    <attr format="reference" name="pressedStateOverlayImage"/>
+
+    <!-- Rounding params -
+    Declares attributes for rounding shape, mode and border. -->
+
+    <!-- Round as circle. -->
+    <attr format="boolean" name="roundAsCircle"/>
+    <!-- Rounded corner radius. Ignored if roundAsCircle is used. -->
+    <attr format="dimension" name="roundedCornerRadius"/>
+    <!-- Round the top-left corner. Ignored if roundAsCircle is used. -->
+    <attr format="boolean" name="roundTopLeft"/>
+    <!-- Round the top-right corner. Ignored if roundAsCircle is used. -->
+    <attr format="boolean" name="roundTopRight"/>
+    <!-- Round the bottom-right corner. Ignored if roundAsCircle is used. -->
+    <attr format="boolean" name="roundBottomRight"/>
+    <!-- Round the bottom-left corner. Ignored if roundAsCircle is used. -->
+    <attr format="boolean" name="roundBottomLeft"/>
+    <!-- Round by overlying color. -->
+    <attr format="color" name="roundWithOverlayColor"/>
+    <!-- Rounding border width-->
+    <attr format="dimension" name="roundingBorderWidth"/>
+    <!-- Rounding border color -->
+    <attr format="color" name="roundingBorderColor"/>
+
+  </declare-styleable></file><file path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">FrescoLib</string></file><file path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\build\generated\res\rs\release"/><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="F:\Android_Dev\myWorkspce\FanXin2.0\frescoLib\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="GenericDraweeView"><attr format="integer" name="fadeDuration"/><attr format="reference" name="placeholderImage"/><attr format="string" name="placeholderImageScaleType"/><attr format="reference" name="retryImage"/><attr format="string" name="retryImageScaleType"/><attr format="reference" name="failureImage"/><attr format="string" name="failureImageScaleType"/><attr format="reference" name="progressBarImage"/><attr format="string" name="progressBarImageScaleType"/><attr format="integer" name="progressBarAutoRotateInterval"/><attr format="string" name="actualImageScaleType"/><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/></declare-styleable></configuration></mergedItems></merger>

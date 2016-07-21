@@ -1,0 +1,3 @@
+include ':frescoLib'
+include ':library'
+include ':fanXin20'

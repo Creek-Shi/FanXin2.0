@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\exploded-aar\\FanXin2.0\\library\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\unread_count_bg.9.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\unread_count_bg.9.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\exploded-aar\\FanXin2.0\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo_fanxin.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\logo_fanxin.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\exploded-aar\\FanXin2.0\\library\\unspecified\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\appitem_del_btn.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\appitem_del_btn.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\login_app.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\login_app.png"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\default_avatar.png",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\drawable-mdpi\\default_avatar.png"
+    }
+]

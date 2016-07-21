@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\menu\\remove_from_blacklist.xml"
+    }
+]

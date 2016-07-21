@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_main_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_main_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\logout_actionsheet.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_activity_bigimage.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_activity_bigimage.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_card.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_add_card.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\exploded-aar\\FanXin2.0\\library\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_mygroup_listview_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_mygroup_listview_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social_publish.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_social_publish.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social_info.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_social_info.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_group_blacklist.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_bank_card.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_bank_card.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_contactlist_listview_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_contactlist_listview_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_contactlist_listview_checkbox.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_contactlist_listview_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_conversation_history.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social_main.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_social_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_chat_admin_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_chat_admin_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_notice_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_notice_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_single.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_single.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_message.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mian_temp.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_mian_temp.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contactlist.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_contactlist.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_view_ad_cycle.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_view_ad_cycle.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_money_trade.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_money_trade.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_lasterloginuser.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_lasterloginuser.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_detail.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_pay_detail.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_emojicon.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_groupcreatactivity_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_groupcreatactivity_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_bank_card_footer.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_bank_card_footer.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_groupchatsetting_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_groupchatsetting_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_qccode_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_qccode_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\itme_wallet.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\itme_wallet.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_notice_listview_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_notice_listview_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\chat_neterror_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\main_init_view.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_contactlist_listview_checkbox.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_contactlist_listview_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_alipayme.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_alipayme.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfriends_final.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_addfriends_final.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_group5.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_group5.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_mygroup_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_mygroup_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_singlechat_setting.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_singlechat_setting.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activtiy_showbigimage.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activtiy_showbigimage.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\exploded-aar\\FanXin2.0\\library\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_invite_msg.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_picture.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_expression.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\commom_back_btn.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_contactlist_listview_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_contactlist_listview_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_location.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_uploadphoto_select_name.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_uploadphoto_select_name.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact_list_footer.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_contact_list_footer.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_singlechatsetting_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_singlechatsetting_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_social_friend.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_social_friend.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_social_delete.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\dialog_social_delete.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_main.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_groupcreat_listview_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_groupcreat_listview_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_2.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_2.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_5.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_5.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallet_records_detail.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_wallet_records_detail.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_chatsetting_gridview_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_chatsetting_gridview_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_mychatroom_footer.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_mychatroom_footer.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfriends_two.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_addfriends_two.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_report_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_report_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_social_main.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_social_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallet_records.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_wallet_records.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_tagview_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_tagview_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_1.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_1.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_groupcreat_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_groupcreat_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_group2.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_group2.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_group_details.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_group1.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_group1.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_newfriendsmsg.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_newfriendsmsg.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_add_group.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_newfriendsmsag.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_newfriendsmsag.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_contactlist_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_contactlist_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mychatroom.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_mychatroom.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myfrienddetail.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_myfrienddetail.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_top_search.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_top_search.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_video.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_header_item.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_header_item.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_localsearch_listview_item1.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_localsearch_listview_item1.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_myinfo.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_myinfo.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chatroom.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_chatroom.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_nick.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_update_nick.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_group3.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_group3.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_contact.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_more.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\popupwindow_more.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_alertdialog.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_alertdialog.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\main_botton_tab.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_3.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_3.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact_list_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_contact_list_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lasterloginuser.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_lasterloginuser.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_conversation_group4.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_conversation_group4.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_mychatroom_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_mychatroom_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_add_temp.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\popupwindow_add_temp.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_fxid.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_update_fxid.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wallet.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_image.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_gridview_image.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_header.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_header.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bank_card.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_bank_card.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact_list.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_contact_list.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_chatroom_4.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_chatroom_4.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_result.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_pay_result.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userinfo.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_userinfo.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\popupwindow_add.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\popupwindow_add.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_money.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_money.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\row_received_file.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_records.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_records.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\alertdialog.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\alertdialog.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\social_sharetofriends_activity.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\social_sharetofriends_activity.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfriends.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_addfriends.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_social_main.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\dialog_social_main.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alipayme.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_alipayme.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_diagnose.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_social_friend.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_social_friend.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alipaymelist.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_alipaymelist.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\build\\intermediates\\res\\merged\\debug\\layout\\item_header_social_main.xml",
+        "source": "F:\\Android_Dev\\myWorkspce\\FanXin2.0\\fanXin20\\src\\main\\res\\layout\\item_header_social_main.xml"
+    }
+]

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FanXin2.0.iml" filepath="$PROJECT_DIR$/FanXin2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanXin20/fanXin20.iml" filepath="$PROJECT_DIR$/fanXin20/fanXin20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frescoLib/frescoLib.iml" filepath="$PROJECT_DIR$/frescoLib/frescoLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>

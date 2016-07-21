@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0_61cc6cbedb929b4ca75ab5b498f2a1ed4b40e692.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\bugly_1.2.9_release.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="a5b2b7c5844d1692ee9a6e43af2e4d61ae3cbc65">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\bugly_1.2.9_release_f37d34e116175464a3c8da93b85485741df35a77.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d635d163d0110d55523d3782419f3dd6db352d44">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\FanXin2.0-library-unspecified_73c6d64b166481b62ddaccecfecab411b3d37db7.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\easemobchat_2.2.5.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="77e3648d4d9fac24aa85a8d7f9bd45d05d19ab22">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\easemobchat_2.2.5_02562f9cdd33c103533c1fd0bd86daca83c15b36.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9173772bebfdba0d2e2e232c6128e1627964d201">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_4bd7bfc48c665b3ee9a2343df8e05b5425f48514.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="323df9011910c93e9e9ecd5bca169b0db4f9d912">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\FanXin2.0-frescoLib-unspecified_ee5cd37cd8bd8f8dd60bcc5f0ca31f697cf3dc51.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\fastjson-1.2.5.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9f675e9a1b2bf1224183005752a9214226e8aa8e">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\fastjson-1.2.5_415f3df2e68f4170adda26d189f7b50826014b3d.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\alipaySDK-20150818.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6dde19fc34adb03c637b17fdaa754e0c02cf75a0">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\alipaySDK-20150818_cf6e05b88275bf477c995a059d388d62faec9daa.jar" />
+    </item>
+    <item
+        jar="D:\Users\shixiaochuan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7755750636643d732644a23f7724c046a1dcb9d1.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\libs\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="85286226964a94dbe4c8a40c62d2baf5b90e285a">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\okhttp-2.2.0_9dfe9f7bbeca6026efbf85b10470001589279d46.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\libs\annotations-3.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="55103648a21d8a04ababcd9d49caada5ff837983">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\annotations-3.0.0_280602d686c6d19dc813c247a3af5b21ec729f45.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\locSDK_5.3.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="ef5a34dcc2783dfe0fb7a7b47745d14d36b4f523">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\locSDK_5.3_cbca00f465957326e2543991d9f76c54881fcdda.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources_8860da8f60370071cf14047b94baeb6dd8480f0d.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\libs\library-1.0.10.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b0a5953537717791a037ddc3f2803210f9c5bbd5">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\library-1.0.10_0fb38a7113ae7eea69838475fe21b007c9d35bba.jar" />
+    </item>
+    <item
+        jar="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\exploded-aar\FanXin2.0\frescoLib\unspecified\jars\libs\nineoldandroidslib.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="221fa4e522ec21926f3f386c6c775e3c737495a7">
+        <dex dex="F:\Android_Dev\myWorkspce\FanXin2.0\fanXin20\build\intermediates\pre-dexed\debug\nineoldandroidslib_8d55eb7c17b0ada8a75672b28eeba7020d1d020a.jar" />
+    </item>
+
+</items>
